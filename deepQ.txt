@@ -1,2 +1,0 @@
-Average Reward: 188.37
-Highest Reward: 200.0
