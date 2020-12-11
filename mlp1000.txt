@@ -1,0 +1,3 @@
+Epochs trained: 1000
+Average Reward: 9.35
+Highest Reward: 11.0
