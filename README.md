@@ -2,8 +2,8 @@
 I pitted two versions of a multi-layer perceptron network and a deep Q neural network against each other.
 Performance is based on their average and highest reward over 100 episodes.
 The second MLP requires the DQN to run first, but after the DQN runs it saves the data for the
-second MLP in 'data.txt', so after running it the first time you won't have to run it again.
-TensorFlow version: 1.15
+second MLP in 'data.txt', so after running it the first time you won't have to run it again.\n
+TensorFlow version: 1.15\n
 Gym version: 0.17
 Sources:
 OpenAI Gym
